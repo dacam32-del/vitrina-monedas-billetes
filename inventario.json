@@ -414,5 +414,279 @@
       "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/d6394b37fa301c9f27b98bc585528e6c56ccd313119a09a55d5e32de89b276aa.jpg",
       "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/552e8a2fc4e475fe8c93e713435932a50a25ffd96dcaf5d5cbd7d2beb2978cf6.jpg"
     ]
+  },
+  {
+    "id": "NUM-008",
+    "tipo": "Moneda",
+    "nombre": "Quarter Washington 1982-D",
+    "pais": "Estados Unidos",
+    "continente": "América del Norte",
+    "denominacion": "1/4 Dólar (25 centavos)",
+    "anio": "1982",
+    "catalogo": "KM# A164a · PCGS# 5913",
+    "ceca": "United States Mint, Denver (D)",
+    "material": "Cuproníquel sobre núcleo de cobre",
+    "peso": "5,67 g",
+    "diametro": "24,3 mm",
+    "tirada": "480.042.788",
+    "anverso": "Busto de George Washington a la izquierda, fecha 1982 y ceca D a la derecha del lazo",
+    "reverso": "Águila con las alas abiertas sobre un haz de flechas y ramos de olivo",
+    "estado": "F",
+    "estado_detalle": "F / VF- (marcas de contacto en anverso y reverso; mancha verdosa/parda en el ala izquierda del águila, lado del espectador). Sin errores visibles en fotos.",
+    "rareza": "Común (prima solo en AU/UNC: no hubo mint sets oficiales en 1982)",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,26 – 0,28",
+    "valor_internacional_clp": "258 – 278",
+    "venta_chile_clp": "1.000 – 2.500",
+    "stock": 1,
+    "dolar": "992,48 CLP (13-11-2026)",
+    "fecha": "2026-11-13",
+    "descripcion": "Quarter Washington de 1982 acuñado en Denver (ceca D confirmada junto al lazo), KM# A164a, N# 55, cuproníquel sobre cobre, 5,67 g y 24,3 mm, tiraje 480.042.788. En 1982 la Casa de Moneda de EE. UU. no emitió mint sets oficiales, por lo que los ejemplares AU/UNC tienen una prima moderada; en F/VF esa prima casi no aplica. Pieza de circulación con marcas de contacto y mancha verdosa en el reverso.",
+    "notas": "Sin errores visibles en fotos (fecha 1982 nítida, ceca D clara, sin doubled die evidente en LIBERTY ni en la fecha, centrada, sin cuño roto ni descentrado). La mancha del reverso es de oxidación/suciedad, no un error de acuñación. Sin ventas cerradas verificables en Chile. En eBay hay ventas internacionales de ejemplares circulados entre USD 1,00 y USD 1,95. La prima por la ausencia de mint sets 1982 se refleja sobre todo en AU/UNC, no en este grado.",
+    "precios_por_estado": {
+      "VG": "1.000 – 2.000",
+      "F": "1.000 – 2.500",
+      "VF": "1.000 – 2.500",
+      "XF": "1.500 – 3.500",
+      "AU": "2.000 – 5.000",
+      "UNC": "3.000 – 10.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista",
+        "url": "https://en.numista.com/55",
+        "precio_clp": "258 – 278",
+        "estado": "F/VF",
+        "nota": "1982 D: F USD 0,26 / VF USD 0,28 / XF USD 0,54 / UNC USD 1,40; tiraje 480.042.788"
+      },
+      {
+        "tipo": "Remate internacional",
+        "fuente": "eBay (PriceCharting, ventas)",
+        "url": "https://www.pricecharting.com/game/coins-washington-quarter/1982-d",
+        "precio_clp": "992 – 1.935",
+        "estado": "Circulado",
+        "nota": "Ventas 2026 de ejemplares circulados USD 1,00 / 1,35 / 1,49 / 1,70 / 1,75 / 1,95 (no es el mercado chileno)"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "PCGS CoinFacts",
+        "url": "https://www.pcgs.com/coinfacts/coin/1982-d-25c/5913",
+        "nota": "Tiraje 480.042.788; no hubo mint sets oficiales en 1982 (la prima es de alto grado)"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "CoinValues",
+        "url": "https://coinvalues.com/blog/why-you-should-save-your-1982-and-1983-washington-quarters",
+        "nota": "1982-D: XF/AU USD 2; MS63 USD 4. Circulados muy gastados quedan cerca del facial (USD 0,25)"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/911692be12fc56dfa4bd28434f8f247f6b5a48acda3b05b6c851ecf1584d99c3.jpg",
+      "/workspace/monedas-billetes/originales/b2ca9fa7ea395ce1ef218e147740e1c00cd793e385ec6dee514fcf083599a728.jpg"
+    ]
+  },
+  {
+    "id": "NUM-009",
+    "tipo": "Moneda",
+    "nombre": "1 Peso Boliviano (fecha ilegible)",
+    "pais": "Bolivia",
+    "continente": "América del Sur",
+    "denominacion": "1 Peso Boliviano",
+    "anio": "ilegible (1968–1980)",
+    "catalogo": "KM# 192",
+    "ceca": "Sin confirmar (acuñaciones en Alemania Occidental / VDM; Stuttgart en Foronum)",
+    "material": "Acero niquelado",
+    "peso": "6 g",
+    "diametro": "27 mm",
+    "anverso": "Escudo de Bolivia (sol, cerros, capilla, palmera y llama) y leyenda REPUBLICA DE BOLIVIA, con estrellas en la parte inferior",
+    "reverso": "UN PESO BOLIVIANO y cifra 1; la fecha, que va bajo el 1, no se puede leer",
+    "estado": "G",
+    "estado_detalle": "G / VG- (muy corroída y oxidada, verdín abundante en anverso y reverso; leyendas parcialmente legibles, fecha ilegible incluso con zoom y realce). Sin errores de acuñación visibles en fotos.",
+    "rareza": "Común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,26 – 0,63",
+    "valor_internacional_clp": "258 – 625",
+    "venta_chile_clp": "1.000 – 2.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (13-11-2026)",
+    "fecha": "2026-11-13",
+    "descripcion": "Peso boliviano de acero niquelado (KM# 192, N# 3226), 6 g y 27 mm, desmonetizado en 1987. El Banco Central de Bolivia y Numista reconocen fechas 1968, 1969, 1972, 1974, 1978 y 1980 (las de 1970 y 1973 que cita Krause son dudosas). En esta pieza la fecha, que debería ir bajo el 1, quedó ilegible por la corrosión. Estado G / VG-, con verdín generalizado.",
+    "notas": "Sin errores visibles en fotos (no se aprecia doubled die, descentrado ni cuño roto; el deterioro es corrosión ambiental, no un error de ceca). Fecha no legible con zoom ni con realce de contraste/canal rojo: se cataloga como 1968–1980, sin año específico. Sin ventas ni anuncios con precio verificable en Chile.",
+    "precios_por_estado": {
+      "VG": "1.000 – 2.000",
+      "F": "1.000 – 2.500",
+      "VF": "1.500 – 3.000",
+      "XF": "2.000 – 4.000",
+      "AU": "2.500 – 5.000",
+      "UNC": "2.500 – 5.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista",
+        "url": "https://en.numista.com/3226",
+        "precio_clp": "258 – 625",
+        "estado": "G/VG",
+        "nota": "Valores G según año: aprox. USD 0,26–0,63. Tirajes entre 2.993.000 (1980) y 15.000.000 (1974)"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Foronum",
+        "url": "https://en.foronum.com/coins-catalog/bolivia/n-6604-1-peso",
+        "precio_clp": "735 – 1.975",
+        "estado": "VG/F",
+        "nota": "Rango general de la serie USD 0,74–3,02 según año y grado; VG de años comunes cerca de USD 0,74–1,01"
+      },
+      {
+        "tipo": "Oficial",
+        "fuente": "Banco Central de Bolivia",
+        "url": "https://www.bcb.gob.bo/?q=museo-virtual%2Fmonedas-0",
+        "nota": "Confirma acuñación en 1968, 1969, 1972, 1974, 1978 y 1980 (no menciona 1970 ni 1973)"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/1678424a85ad56c12123d5b893a4995822cefb275d475e265e2f87f91119db96.jpg",
+      "/workspace/monedas-billetes/originales/f6a5eb1a4c2fc24e757cbec8eb7ecef166b91e8d828b17d810188f6a3d98ebe0.jpg"
+    ]
+  },
+  {
+    "id": "NUM-010",
+    "tipo": "Moneda",
+    "nombre": "10 Pesos / Un Cóndor 1956",
+    "pais": "Chile",
+    "continente": "América del Sur",
+    "denominacion": "10 Pesos (Un Cóndor)",
+    "anio": "1956",
+    "catalogo": "KM# 181",
+    "ceca": "Casa de Moneda de Santiago (So)",
+    "material": "Aluminio",
+    "peso": "3,0 g",
+    "diametro": "29 mm",
+    "tirada": "13.100.000",
+    "anverso": "Cóndor andino en vuelo, REPUBLICA DE CHILE (grabador R. Thenot)",
+    "reverso": "10 DIEZ PESOS UN CONDOR 1956 entre espigas, ceca So arriba",
+    "estado": "F",
+    "estado_detalle": "F / VF (desgaste en puntos altos del cóndor y de las espigas; golpes de canto visibles). Pequeño orificio o punto profundo en la letra C de CHILE (posible daño posterior o defecto de cospel/laminación en aluminio). Sin otros errores de acuñación visibles en fotos.",
+    "rareza": "Común",
+    "origen_estimacion": "Chile / Nacional",
+    "valor_internacional_usd": "0,60",
+    "valor_internacional_clp": "595",
+    "venta_chile_clp": "2.000 – 3.500",
+    "stock": 1,
+    "dolar": "992,48 CLP (13-11-2026)",
+    "fecha": "2026-11-13",
+    "descripcion": "Diez pesos de aluminio «Un Cóndor» de 1956 (KM# 181, N# 1289), acuñado en la Casa de Moneda de Santiago (marca So confirmada), 3,0 g y 29 mm, canto liso, tiraje 13.100.000. Desmonetizado el 1-01-1960. Pieza en F/VF, con golpes de canto y un pequeño orificio o punto en la C de CHILE que reduce su atractivo frente a los anuncios locales de ejemplares sin daño.",
+    "notas": "Bajo CHILE hay un pequeño orificio o punto profundo, centrado en la letra C: en aluminio fino puede ser una perforación posterior, una burbuja de cospel o una laminación abierta. No se observa doubled die, descentrado ni cuño roto. No hay ventas de esta misma falla, así que no se asigna prima de error; el rango queda por debajo de los anuncios chilenos de piezas sanas. En Yapo aparece un pedido aislado a $40.000 CLP, desalineado con el mercado y no usado para tasar.",
+    "precios_por_estado": {
+      "VG": "1.500 – 2.500",
+      "F": "2.000 – 3.500",
+      "VF": "2.500 – 4.000",
+      "XF": "3.500 – 5.000",
+      "AU": "4.000 – 7.000",
+      "UNC": "4.500 – 8.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Anuncio Chile",
+        "fuente": "Mercado Libre Chile",
+        "url": "https://listado.mercadolibre.cl/moneda-10-peso-1-condor",
+        "precio_clp": "3.400 – 4.890",
+        "nota": "Anuncios activos del tipo 1956–1959, con un listado de 1956-1959 a $3.400–$4.000 y más de 25 vendidos; 1956 «casi UNC» pedido a $4.890; otra 1956 a $3.600. No son ventas cerradas de esta pieza con orificio"
+      },
+      {
+        "tipo": "Anuncio Chile",
+        "fuente": "Yapo",
+        "url": "https://www.yapo.cl/anuncios-casificados-musica-moda-arte.5?q=keyword.coleccionistas+de+monedas",
+        "precio_clp": "40.000",
+        "nota": "Pedido aislado de un cóndor 1956 a $40.000; no es venta cerrada y está desalineado con el mercado"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista",
+        "url": "https://en.numista.com/1289",
+        "precio_clp": "595",
+        "estado": "G–VF",
+        "nota": "1956 So: G a VF USD 0,60 / AU USD 1,20 / UNC USD 1,50; tiraje 13.100.000"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "NGC / NumisMaster",
+        "url": "https://www.ngccoin.com/price-guide/world/chile-10-pesos-km-181-1956-1959-cuid-16138-duid-53481",
+        "precio_clp": "198 – 298",
+        "estado": "F/VF",
+        "nota": "1956: F USD 0,20 / VF USD 0,30 / XF USD 1,00"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/9f1565bb182f283551fdebf30873aa3e4225816b86436fff45e0b7408d3f5da9.jpg",
+      "/workspace/monedas-billetes/originales/4c74e3171f6fe157ea0e456f653b9c6af21d9e61dbe4ab1c88f0b160a0a56659.jpg"
+    ]
+  },
+  {
+    "id": "NUM-011",
+    "tipo": "Moneda",
+    "nombre": "10 Pesos 1988 (ángel)",
+    "pais": "Chile",
+    "continente": "América del Sur",
+    "denominacion": "10 Pesos",
+    "anio": "1988",
+    "catalogo": "KM# 218.2 (no 218.1)",
+    "ceca": "Casa de Moneda de Santiago (So)",
+    "material": "Aluminio-bronce / latón de níquel",
+    "peso": "3,5 g",
+    "diametro": "21 mm",
+    "tirada": "45.000.000",
+    "anverso": "Ángel de la Libertad con los brazos alzados y cadenas rotas, REPUBLICA DE CHILE, 11-IX, So y 1973, LIBERTAD",
+    "reverso": "10 PESOS 1988 entre laureles (fecha estrecha; tallos del laurel aparentemente simétricos)",
+    "estado": "F",
+    "estado_detalle": "F / VF (circulada, con manchas oscuras en anverso y reverso; ceca So y fecha 1988 nítidas). Sin errores visibles en fotos.",
+    "rareza": "Común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,20 – 0,28",
+    "valor_internacional_clp": "198 – 278",
+    "venta_chile_clp": "1.000 – 2.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (13-11-2026)",
+    "fecha": "2026-11-13",
+    "descripcion": "Diez pesos chilenos de 1988 con el Ángel de la Libertad (KM# 218.2, N# 2842), no KM# 218.1 (ese subtipo cubre 1981–1987). Acuñada en Santiago (So confirmada), aluminio-bronce / latón de níquel, 3,5 g y 21 mm. Variedad común de fecha estrecha, borde estrecho y tallos aparentemente simétricos, tiraje 45.000.000. Sigue de curso legal (piso facial $10 CLP). Estado F/VF, con manchas.",
+    "notas": "Sin errores visibles en fotos (centrada, sin doubled die ni cuño roto; las manchas son suciedad/pátina). Se corrige el KM: 1988 es 218.2, no 218.1. Existe una variedad 1988 de tallos asimétricos (sin tiraje aparte, menos frecuente); esta pieza parece la de tallos simétricos, la más común. Sin ventas cerradas verificables en Chile. Una nota de prensa de AS Chile (2022) menciona pedidos cercanos a $1.800 CLP para la de 1988, sin documentar una venta cerrada.",
+    "precios_por_estado": {
+      "VG": "500 – 1.500",
+      "F": "1.000 – 2.000",
+      "VF": "1.000 – 2.000",
+      "XF": "1.500 – 2.500",
+      "AU": "1.500 – 3.000",
+      "UNC": "2.000 – 4.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista",
+        "url": "https://en.numista.com/2842",
+        "precio_clp": "198 – 278",
+        "estado": "F/VF",
+        "nota": "1988 So KM# 218.2, tallos simétricos: VG USD 0,20 / F USD 0,20 / VF USD 0,28 / XF USD 0,44 / UNC USD 0,55; tiraje 45.000.000"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Foronum",
+        "url": "https://en.foronum.com/coins-catalog/chile/n-3119-10-pesos/1988",
+        "precio_clp": "208",
+        "estado": "UNC",
+        "nota": "KM# 218.2, «año estrecho, borde estrecho», tiraje 45.000.000; solo cotiza UNC USD 0,21"
+      },
+      {
+        "tipo": "Prensa Chile",
+        "fuente": "AS Chile",
+        "url": "https://chile.as.com/actualidad/cuanto-pagan-por-la-moneda-de-10-pesos-con-el-angel-y-donde-puedo-venderla-n/",
+        "precio_clp": "1.800",
+        "nota": "Artículo de 27-05-2022: menciona que la de 1988 «puede llegar a tener un precio cercano a los 1.800 pesos»; no es una venta cerrada verificable"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/b774d9911f2b12dae2d88041e6b17ff880f58ae8b8b73098e2ecb6b7cc8263d5.jpg",
+      "/workspace/monedas-billetes/originales/d7ca86f5d08bd713a05631f87f6431954e431a72fdf181cc21f100ad1578e4fb.jpg"
+    ]
   }
 ]
