@@ -1,1 +1,418 @@
-[]
+[
+  {
+    "id": "NUM-001",
+    "tipo": "Moneda",
+    "nombre": "1 Peso 1933",
+    "pais": "Chile",
+    "continente": "América del Sur",
+    "denominacion": "1 Peso",
+    "anio": "1933",
+    "catalogo": "KM# 176.1",
+    "ceca": "Casa de Moneda de Santiago (So)",
+    "material": "Cuproníquel",
+    "tirada": "29.976.000",
+    "anverso": "Escudo nacional y cóndor",
+    "reverso": "Valor 1 PESO y fecha 1933 entre laureles",
+    "estado": "VF",
+    "estado_detalle": "VF / VF+ (desgaste parejo en pecho y alas del cóndor, leyendas nítidas)",
+    "rareza": "Común",
+    "origen_estimacion": "Chile / Nacional",
+    "valor_internacional_usd": "1,30 – 1,70",
+    "valor_internacional_clp": "1.290 – 1.700",
+    "venta_chile_clp": "3.000 – 6.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (13-11-2026)",
+    "fecha": "2026-11-13",
+    "descripcion": "Peso chileno de cuproníquel de 1933 (KM# 176.1), acuñado en la Casa de Moneda de Santiago, con tirada de 29.976.000 ejemplares. Pieza común en estado VF / VF+, con desgaste parejo en el pecho y las alas del cóndor y leyendas nítidas.",
+    "notas": "Estimación de venta en Chile basada en anuncios locales activos de ejemplares sueltos, por encima de las cotizaciones internacionales de catálogo en VF.",
+    "precios_por_estado": {
+      "VG": "1.500 – 3.000",
+      "F": "1.500 – 3.000",
+      "VF": "3.000 – 6.000",
+      "XF": "5.000 – 8.000",
+      "AU": "8.000 – 15.000",
+      "UNC": "8.000 – 15.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Anuncio Chile",
+        "fuente": "Mercado Libre Chile",
+        "url": "https://listado.mercadolibre.cl/moneda-10-peso-1-condor",
+        "precio_clp": "6.990 – 7.990",
+        "nota": "Anuncios activos sueltos"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista",
+        "url": "https://en.numista.com/catalogue/pieces2951.html",
+        "precio_clp": "1.290 – 1.700",
+        "estado": "VF"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Foronum",
+        "url": "https://www.foronum.com/catalogo-de-monedas/chile/n-346-1-peso",
+        "estado": "VF"
+      }
+    ],
+    "fotos": [
+      "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/a944e6279d9b90e70f5152e25568605094d894b79ff8168ca7c6bc8a6cfa6632.jpg",
+      "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/1df5bf4bd3b0b746ac861dd53567f0e144ec2219a80dcd6645a264b75d273272.jpg"
+    ]
+  },
+  {
+    "id": "NUM-002",
+    "tipo": "Moneda",
+    "nombre": "1 Peso 1942 (O'Higgins)",
+    "pais": "Chile",
+    "continente": "América del Sur",
+    "denominacion": "1 Peso",
+    "anio": "1942",
+    "catalogo": "KM# 179",
+    "ceca": "Casa de Moneda de Santiago (So)",
+    "material": "Cobre",
+    "tirada": "15.150.000",
+    "anverso": "Busto de Bernardo O'Higgins",
+    "estado": "F",
+    "estado_detalle": "F / F-VF (desgaste en el busto y mancha verdosa de verdín junto al cuello/oreja)",
+    "rareza": "Común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,33 – 0,80",
+    "valor_internacional_clp": "330 – 790",
+    "venta_chile_clp": "1.500 – 3.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (13-11-2026)",
+    "fecha": "2026-11-13",
+    "descripcion": "Peso chileno de cobre de 1942 con el busto de Bernardo O'Higgins (KM# 179), acuñado en la Casa de Moneda de Santiago, con tirada de 15.150.000 ejemplares. Pieza común en estado F / F-VF, con desgaste en el busto y mancha verdosa de verdín junto al cuello y la oreja.",
+    "notas": "Sin ventas cerradas verificables en Chile; la estimación local se ajusta al alza sobre el catálogo internacional, solo como referencia.",
+    "precios_por_estado": {
+      "VG": "1.000 – 2.000",
+      "F": "1.000 – 2.000",
+      "VF": "1.500 – 3.000",
+      "XF": "2.500 – 5.000",
+      "AU": "8.000 – 15.000",
+      "UNC": "8.000 – 15.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista",
+        "url": "https://en.numista.com/catalogue/pieces3544.html",
+        "precio_clp": "330 – 790",
+        "estado": "F/VF"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Foronum",
+        "url": "https://www.foronum.com/catalogo-de-monedas/chile/n-347-1-peso/1942",
+        "estado": "F/VF"
+      }
+    ],
+    "fotos": [
+      "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/38acf12965695a860ccd5d66ceb78dc26779d2ee8f4ff37d0b2fc7b15da232a3.jpg",
+      "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/9624efd825024e370f753335735a5e23ab777128ea512771277dd035e4062bcf.jpg"
+    ]
+  },
+  {
+    "id": "NUM-003",
+    "tipo": "Moneda",
+    "nombre": "1/2 Sol de Oro 1960",
+    "pais": "Perú",
+    "continente": "América del Sur",
+    "denominacion": "1/2 Sol de Oro",
+    "anio": "1960",
+    "catalogo": "KM# 220.5",
+    "ceca": "Casa de Moneda de Lima",
+    "material": "Latón (no es oro)",
+    "tirada": "5.600.000",
+    "estado": "VF",
+    "estado_detalle": "VF (escudo y leyendas claros, tonos oscuros normales de latón circulado)",
+    "rareza": "Común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,42 – 1,16",
+    "valor_internacional_clp": "417 – 1.150",
+    "venta_chile_clp": "2.000 – 4.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (13-11-2026)",
+    "fecha": "2026-11-13",
+    "descripcion": "Media sol de oro peruana de 1960 (KM# 220.5), acuñada en la Casa de Moneda de Lima en latón (pese al nombre, no es oro), con tirada de 5.600.000 ejemplares. Pieza común en estado VF, con escudo y leyendas claros y tonos oscuros normales de latón circulado.",
+    "notas": "Sin ventas cerradas verificables en Chile; la estimación local se presenta como referencia internacional ajustada a retail.",
+    "precios_por_estado": {
+      "VG": "1.000 – 2.000",
+      "F": "1.000 – 2.000",
+      "VF": "2.000 – 3.500",
+      "XF": "3.000 – 5.000",
+      "AU": "5.000 – 10.000",
+      "UNC": "5.000 – 10.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista",
+        "url": "https://en.numista.com/catalogue/pieces5310.html",
+        "precio_clp": "417 – 1.150",
+        "estado": "VF"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Foronum",
+        "url": "https://en.foronum.com/coins-catalog/peru/n-6992-12-sol/1960",
+        "estado": "VF"
+      }
+    ],
+    "fotos": [
+      "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/314c5758a3161f6fdc6d774de290a4f6cabfcb0b45ee1a2e9a4c1b1a6e9186cc.jpg",
+      "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/82e874eabe1c77e66e228a8344b5dd533049ce377b565cf04ef18a66f8dc1a66.jpg"
+    ]
+  },
+  {
+    "id": "NUM-004",
+    "tipo": "Moneda",
+    "nombre": "10 Centésimos de Escudo 1963",
+    "pais": "Chile",
+    "continente": "América del Sur",
+    "denominacion": "10 Centésimos de Escudo",
+    "anio": "1963",
+    "catalogo": "KM# 191",
+    "ceca": "Casa de Moneda de Santiago (So)",
+    "material": "Bronce de aluminio",
+    "tirada": "10.980.000",
+    "estado": "VF",
+    "estado_detalle": "VF+ / XF- (la mejor conservada del lote, plumas bien definidas, probable 3 completo)",
+    "rareza": "Común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,34 – 1,33",
+    "valor_internacional_clp": "340 – 1.320",
+    "venta_chile_clp": "1.500 – 3.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (13-11-2026)",
+    "fecha": "2026-11-13",
+    "descripcion": "Diez centésimos de escudo chilenos de 1963 (KM# 191) en bronce de aluminio, acuñados en la Casa de Moneda de Santiago, con tirada de 10.980.000 ejemplares. Es la mejor conservada del lote (VF+ / XF-), con plumas bien definidas y el 3 de la fecha probablemente completo.",
+    "notas": "Sin ventas cerradas verificables en Chile; la estimación local se presenta como referencia internacional ajustada a retail.",
+    "precios_por_estado": {
+      "VG": "1.000 – 2.000",
+      "F": "1.000 – 2.000",
+      "VF": "1.500 – 2.500",
+      "XF": "2.000 – 3.500",
+      "AU": "3.000 – 6.000",
+      "UNC": "3.000 – 6.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista",
+        "url": "https://en.numista.com/catalogue/pieces2664.html",
+        "precio_clp": "340 – 1.320",
+        "estado": "VF/XF"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Foronum",
+        "url": "https://www.foronum.com/catalogo-de-monedas/chile/n-3097-10-centesimos",
+        "estado": "VF/XF"
+      }
+    ],
+    "fotos": [
+      "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/cfb18b82557ec65d1a7ded34d1bf970ed2555598843b0b43022a65bbb5a01208.jpg",
+      "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/b24d32f5d920a78025e5c9e7a96073435b02c33a512d2594c5872a3f8bb6a61d.jpg"
+    ]
+  },
+  {
+    "id": "NUM-005",
+    "tipo": "Billete",
+    "nombre": "Medio Escudo (E° 0,50)",
+    "pais": "Chile",
+    "continente": "América del Sur",
+    "denominacion": "Medio Escudo (E° 0,50)",
+    "anio": "c. 1970–1973",
+    "catalogo": "Pick P-134Aa · TBB B268c",
+    "serie": "G7 534644 (serie negra)",
+    "ceca": "Casa de Moneda de Chile",
+    "firmas": "Alfonso Inostroza Cuevas (Presidente) / Jaime Barrios Meza (Gerente General)",
+    "material": "Papel",
+    "diametro": "145 × 70 mm",
+    "estado": "VG",
+    "estado_detalle": "VG/F (pliegue central marcado, bordes gastados, manchitas de óxido en bordes y suciedad de circulación; el papel y el grabado siguen legibles)",
+    "rareza": "Común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,75 – 4,33",
+    "valor_internacional_clp": "744 – 4.297",
+    "venta_chile_clp": "1.500 – 3.500",
+    "stock": 1,
+    "dolar": "992,48 CLP (13-11-2026)",
+    "fecha": "2026-11-13",
+    "descripcion": "Medio escudo (E° 0,50) del Banco Central de Chile, variedad P-134Aa (TBB B268c) con serie negra G7 534644 y firmas Inostroza / Barrios. Emisión s/f (ND) circa 1970–1973, impresa por la Casa de Moneda de Chile, 145 × 70 mm, con filigrana de Diego Portales. Desmonetizado en la reforma de 1975 (sin valor facial útil). No confundir con el P-129 (sobrecarga de 50 centésimos de escudo sobre 500 pesos de 1960) ni con el P-134 de serie roja.",
+    "notas": "En Chile solo aparece un pedido aislado en Yapo a $60.000 CLP por un ejemplar “nuevo”, sin ventas cerradas locales. La estimación de esta pieza (VG/F) se apoya en remates y catálogo internacional, ajustada a retail local. Punto medio: $2.500 CLP.",
+    "precios_por_estado": {
+      "VG": "1.500 – 3.500",
+      "F": "1.500 – 3.500",
+      "VF": "2.500 – 5.000",
+      "XF": "4.000 – 7.000",
+      "AU": "5.000 – 10.000",
+      "UNC": "5.000 – 10.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Anuncio Chile",
+        "fuente": "Yapo",
+        "url": "https://public-api.yapo.cl/anuncios-casificados-miscelaneos-coleccionables-y-hobbies/medio-escudo-billete-de-coleccion-chile/26700278",
+        "precio_clp": "60.000",
+        "nota": "Pedido aislado (Independencia, 24-08-2023) por un ejemplar “nuevo / perfecto estado”; no es venta cerrada y está desalineado con el mercado"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista",
+        "url": "https://en.numista.com/202813",
+        "precio_clp": "3.424 – 6.560",
+        "estado": "UNC",
+        "nota": "Ventas Katz UNC serie G Inostroza/Barrios: USD 5,49 (10-01-2024) y USD 6,61 (11-09-2024); catálogo F USD 0,75"
+      },
+      {
+        "tipo": "Remate internacional",
+        "fuente": "Historic Banknotes (eBay)",
+        "url": "https://historicbanknotes.com/note/chile-1-2-escudos-p134a-1962",
+        "precio_clp": "1.737 – 4.297",
+        "estado": "F",
+        "nota": "Remates F USD 1,75 y USD 4,33 (2014); UNC USD 3,45 (24-04-2025)"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Kate's Paper Money",
+        "url": "https://www.katespapermoney.co.uk/category.asp?ID=66",
+        "nota": "Anuncio UNC serie G £3,35"
+      }
+    ],
+    "fotos": [
+      "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/561e3d57c046f129f3c39cee38d0374ca504171dd864c095e1cc43bd8428a213.jpg",
+      "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/de1ed9b370e9e3f7eaf8b6dddae46897469ca7032dfdcb098b0eaac3ecb8d525.jpg"
+    ]
+  },
+  {
+    "id": "NUM-006",
+    "tipo": "Billete",
+    "nombre": "1.000 Pesos 2006 (papel algodón)",
+    "pais": "Chile",
+    "continente": "América del Sur",
+    "denominacion": "1.000 Pesos",
+    "anio": "2006",
+    "catalogo": "Pick P-154g · TBB B290 · SCPM 131b.1",
+    "serie": "NN9061464",
+    "ceca": "Casa de Moneda de Chile",
+    "firmas": "Vittorio Corbo Lioi (Presidente) / Leonardo Hernández Tagle (Gerente General)",
+    "material": "Papel algodón",
+    "diametro": "145 × 70 mm",
+    "anverso": "Ignacio Carrera Pinto / ánfora de los Héroes de la Concepción",
+    "reverso": "Monumento “Chile a sus Héroes”",
+    "estado": "F",
+    "estado_detalle": "F / VF- (circulado; pliegue central, arrugas, esquinas un poco redondeadas y mancha/óxido leve en el borde superior del reverso)",
+    "rareza": "Común",
+    "origen_estimacion": "Chile / Nacional",
+    "valor_internacional_usd": "0,93 – 3,30",
+    "valor_internacional_clp": "923 – 3.275",
+    "venta_chile_clp": "1.000 – 2.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (13-11-2026)",
+    "fecha": "2026-11-13",
+    "descripcion": "Billete de 1.000 pesos del Banco Central de Chile, año 2006, en papel algodón (Pick P-154g, TBB B290, SCPM 131b.1), serie NN9061464, firmas Corbo / Hernández. 145 × 70 mm, con marca táctil inferior izquierda. Sigue de curso legal: el Banco Central canjea los billetes de 1975–2009 por su valor nominal (piso $1.000 CLP). No confundir con el P-153.",
+    "notas": "El valor de colección apenas supera el nominal por los dobleces y la mancha. Estimación apoyada en el piso legal del Banco Central y en catálogo internacional. Punto medio: $1.500 CLP.",
+    "precios_por_estado": {
+      "VG": "1.000 – 2.000",
+      "F": "1.000 – 2.000",
+      "VF": "1.500 – 3.000",
+      "XF": "2.500 – 4.000",
+      "AU": "3.000 – 6.000",
+      "UNC": "3.000 – 6.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Oficial Chile",
+        "fuente": "Banco Central de Chile",
+        "url": "https://www.billetesymonedas.cl/InformacionNormativa/CanjeBilletesMonedas",
+        "precio_clp": "1.000",
+        "nota": "Piso de canje: curso legal, billetes 1975–2009"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista",
+        "url": "https://en.numista.com/203431",
+        "precio_clp": "923 – 3.275",
+        "estado": "F/VF",
+        "nota": "2006 Corbo/Hernández: F USD 0,93 / VF USD 3,30 / UNC USD 4,70"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Banknote World",
+        "url": "https://www.banknoteworld.org/chile-1-000-pesos-banknote-2006-p-154g-1.html",
+        "nota": "Book value USD 5,00"
+      }
+    ],
+    "fotos": [
+      "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/1c4e8f1bc6f89a97e1e1152c3d1433d559175e964c0c51514dfb93385713574e.jpg",
+      "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/e37c1f5399eebafeca87af441fa9a07d3cdf5909499e20ac07a16c081049304f.jpg"
+    ]
+  },
+  {
+    "id": "NUM-007",
+    "tipo": "Billete",
+    "nombre": "5.000 Intis 1988 (Roma)",
+    "pais": "Perú",
+    "continente": "América del Sur",
+    "denominacion": "5.000 Intis",
+    "anio": "1988",
+    "catalogo": "Pick P-138 · TBB B476a · BCRP 197",
+    "serie": "A4013117F",
+    "ceca": "Istituto Poligrafico e Zecca dello Stato - Roma",
+    "firmas": "Juan Candela Gómez de la Torre (Director) / Luis F. Rodríguez Vildósola (Presidente) / Santiago Antúnez de Mayolo (Gerente General)",
+    "material": "Papel",
+    "diametro": "150 × 75 mm",
+    "tirada": "50.000.000",
+    "estado": "VG",
+    "estado_detalle": "VG/F (pliegue central marcado, arrugas de circulación, manchas leves, bordes y esquinas un poco gastados)",
+    "rareza": "Poco común (variedad Roma)",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,80 – 2,10",
+    "valor_internacional_clp": "794 – 2.084",
+    "venta_chile_clp": "1.500 – 3.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (13-11-2026)",
+    "fecha": "2026-11-13",
+    "descripcion": "Billete de 5.000 intis del Banco Central de Reserva del Perú, 28 de junio de 1988, variedad impresa en Roma (Pick P-138, TBB B476a, BCRP 197), serie A4013117F (rango A/F–A/K). Tiraje de 50 millones (~4 % en Numista; más escasa que la P-137 de Giesecke & Devrient). 150 × 75 mm, filigrana de Miguel Grau. Desmonetizado el 1-07-1991 (5.000 intis = 0,005 soles; sin valor facial útil). No confundir con el P-136 (1.000 intis), el P-137 (misma fecha, G&D) ni el P-139 (Thomas de La Rue, 9-09-1988).",
+    "notas": "Sin ventas ni anuncios verificables en Chile. La estimación (VG/F) se apoya en catálogo internacional, con leve prima por ser P-138 y no la P-137 común. Punto medio: $2.000 CLP. El tramo alto de UNC (hasta $12.000) refleja pedidas europeas; remates y Numista quedan más cerca de $2.000–$7.000.",
+    "precios_por_estado": {
+      "VG": "1.500 – 3.000",
+      "F": "1.500 – 3.000",
+      "VF": "2.000 – 4.000",
+      "XF": "3.000 – 6.000",
+      "AU": "4.000 – 12.000",
+      "UNC": "4.000 – 12.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista",
+        "url": "https://en.numista.com/206022",
+        "precio_clp": "2.084",
+        "estado": "UNC",
+        "nota": "P-138 solo cotiza UNC USD 2,10; la P-137 común cotiza F USD 0,80 / VF USD 1,00"
+      },
+      {
+        "tipo": "Anuncio internacional",
+        "fuente": "VCoins / Numiscorner",
+        "url": "https://www.vcoins.com/en/stores/numiscorner/239/product/banknote_peru_5000_intis_1988_19880628_km138_unc6570/1584652/Default.aspx",
+        "estado": "UNC",
+        "nota": "Pedido P-138 UNC €10,95 (no es venta cerrada)"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Foronum",
+        "url": "https://en.foronum.com/banknotes-catalog/peru/n-8255-5000-intis",
+        "estado": "VF",
+        "nota": "Agrupa como P-137 (algoritmo): VG USD 1,11 / F USD 1,22 / VF USD 1,31"
+      }
+    ],
+    "fotos": [
+      "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/d6394b37fa301c9f27b98bc585528e6c56ccd313119a09a55d5e32de89b276aa.jpg",
+      "/home/box/agent-data/agents/165e22f0-7ec9-4e11-91e7-5f6bf6d47510/attachments/552e8a2fc4e475fe8c93e713435932a50a25ffd96dcaf5d5cbd7d2beb2978cf6.jpg"
+    ]
+  }
+]
