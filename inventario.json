@@ -1048,5 +1048,243 @@
       "/workspace/monedas-billetes/originales/lote-t211/fb2b223493136649407ff74ee13582242f2dda71d6386a90bf1500fa010cbf21.jpg",
       "/workspace/monedas-billetes/originales/lote-t211/dce3fd661d580da96c99eb34354bed09849b72f89269c6820b6b85db9ac2c0e9.jpg"
     ]
+  },
+  {
+    "id": "NUM-019",
+    "tipo": "Moneda",
+    "nombre": "10 Centésimos de Escudo 1965",
+    "pais": "Chile",
+    "continente": "América del Sur",
+    "denominacion": "10 Centésimos de Escudo",
+    "anio": "1965",
+    "catalogo": "KM# 191 · N# 2664",
+    "ceca": "Casa de Moneda de Santiago (So)",
+    "material": "Bronce de aluminio",
+    "peso": "8,1 g (catálogo)",
+    "diametro": "27,17 mm",
+    "tirada": "49.480.000",
+    "anverso": "Cóndor en vuelo a la izquierda; REPUBLICA DE CHILE",
+    "reverso": "E° 10 CENTESIMOS 1965, ramajes de trigo y marca So; grafila de segmentos; canto liso",
+    "estado": "VF",
+    "estado_detalle": "VF (cóndor y leyendas claros, desgaste de circulación en puntos altos; rayón incuso diagonal en el 0 del 10, posterior a la acuñación)",
+    "rareza": "Común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,57 (VF Numista)",
+    "valor_internacional_clp": "566",
+    "venta_chile_clp": "1.500 – 3.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "Diez centésimos de escudo chilenos de 1965 (KM# 191, N# 2664) en bronce de aluminio, 8,1 g y 27,17 mm, canto liso, acuñados en la Casa de Moneda de Santiago (marca So), con tirada de 49.480.000 ejemplares: pieza muy común. El tipo es el mismo que NUM-004 (1963), pero de otro año; en 1965 no hay la variedad de 3 completo o incompleto que sí se cita en 1963, ni otras variedades de circulación catalogadas. Estado VF, con cóndor y leyendas legibles. En el 0 del «10» hay un rayón incuso diagonal, fino, que corta el dígito: es daño posterior a la acuñación, no una grieta de cuño, y no lleva prima. En Numista el VF de 1965 anda por USD 0,57 y en Foronum por USD 0,81; hay pedidos internacionales de UNC en torno a EUR 4,30. Sin ventas cerradas verificables en Chile; la estimación $1.500–3.000 se alinea con NUM-004 (10 centésimos 1963).",
+    "notas": "No es duplicado de NUM-004 (10 centésimos 1963, mismo KM# 191, otro año). El rayón del 0 es post-acuñación (PMD), no un error de ceca. Sin ventas cerradas verificables en Chile.",
+    "precios_por_estado": {
+      "VG": "1.000 – 2.000",
+      "F": "1.000 – 2.000",
+      "VF": "1.500 – 3.000",
+      "XF": "2.000 – 3.500",
+      "AU": "3.000 – 6.000",
+      "UNC": "3.000 – 6.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista N# 2664",
+        "url": "https://en.numista.com/catalogue/pieces2664.html",
+        "precio_usd": "0,57 (VF)",
+        "precio_clp": "566",
+        "estado": "VF",
+        "nota": "Valor de catálogo / usuarios Numista para 1965; no es una venta cerrada de este ejemplar"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Foronum",
+        "url": "https://www.foronum.com/catalogo-de-monedas/chile/n-3097-10-centesimos",
+        "precio_usd": "0,81 (VF)",
+        "precio_clp": "804",
+        "estado": "VF",
+        "nota": "Valor de catálogo Foronum; no es una venta cerrada"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-reenvio1/8dd5611542e2d60e5b73748842707612faf261acd2f89a8574c26a78bda6c3e0.jpg",
+      "/workspace/monedas-billetes/originales/lote-reenvio1/5a1231643c4a1a06ce14034ca0cc076476bf50c2aa0d06e65922abd613d30cb6.jpg"
+    ]
+  },
+  {
+    "id": "NUM-020",
+    "tipo": "Moneda",
+    "nombre": "20 Centavos 1924",
+    "pais": "Chile",
+    "continente": "América del Sur",
+    "denominacion": "20 Centavos",
+    "anio": "1924",
+    "catalogo": "KM# 167.1 · N# 6808",
+    "ceca": "Casa de Moneda de Santiago (So)",
+    "material": "Cuprónico",
+    "peso": "4,5 g (catálogo)",
+    "diametro": "22,6 mm",
+    "tirada": "16.096.000",
+    "anverso": "Cóndor de pie sobre peña a la izquierda; REPUBLICA DE CHILE; sin nombre de grabador",
+    "reverso": "So 20 CENTAVOS 1924 dentro de corona de laurel, con haz en la base (tipo de «20 grande»)",
+    "estado": "F",
+    "estado_detalle": "F / VF- (fecha, valor y leyendas claras; puntos altos del cóndor y de la corona bastante aplanados; pátina gris pareja de cuprónico circulado)",
+    "rareza": "Común",
+    "origen_estimacion": "Chile / Nacional",
+    "valor_internacional_usd": "1,07 (VF Numista, ≈ EUR 0,97)",
+    "valor_internacional_clp": "1.062",
+    "venta_chile_clp": "2.000 – 4.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "Veinte centavos chilenos de 1924 (KM# 167.1, N# 6808) en cuprónico, 4,5 g y 22,6 mm, acuñados en Santiago (marca So en el reverso), con tirada de 16.096.000 ejemplares. Es el tipo sin nombre de grabador (no aparece O.ROTY); las variedades con firma del artista y con numeral chico corresponden a 1929 en adelante, no a 1924. El 20 es del módulo grande habitual de este KM. Estado F / VF-: leyendas y fecha nítidas, cóndor y hojas con desgaste claro en los puntos altos, tono gris de circulación, sin errores visibles. En Chile hay un anuncio en Yapo (Padre Hurtado, actualizado el 12/10/2026) que pide $3.000 por un 20 centavos 1924: es precio pedido, no una venta cerrada verificable. La estimación $2.000–4.000 se apoya en ese anuncio nacional. En Numista el VF anda por EUR 0,97 (unos USD 1,07 / $1.062, con 1 EUR ≈ USD 1,10) y en Foronum por EUR 1,16; en eBay hay pedidos de ejemplares circulados en torno a USD 8,59, que no se toman como venta cerrada.",
+    "notas": "Sin errores de acuñación visibles. No es la variedad O.ROTY ni la de numeral chico (posteriores a 1924). El $3.000 de Yapo es un anuncio, no una venta cerrada.",
+    "precios_por_estado": {
+      "VG": "1.500 – 2.500",
+      "F": "2.000 – 3.500",
+      "VF": "2.000 – 4.000",
+      "XF": "3.500 – 6.000",
+      "AU": "5.000 – 8.000",
+      "UNC": "6.000 – 10.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Anuncio Chile",
+        "fuente": "Yapo (Padre Hurtado)",
+        "url": "https://www.yapo.cl/anuncios-casificados-miscelaneos-coleccionables-y-hobbies/moneda-de-20-centavos-1924/26677786",
+        "precio_clp": "3.000",
+        "nota": "Anuncio de un 20 centavos 1924 a $3.000 CLP, actualizado el 12/10/2026; precio pedido, no venta cerrada de este ejemplar"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista N# 6808",
+        "url": "https://en.numista.com/catalogue/pieces6808.html",
+        "precio_usd": "unos 1,07 (VF, EUR 0,97)",
+        "precio_clp": "1.062",
+        "estado": "VF",
+        "nota": "Catálogo Numista; 1 EUR ≈ USD 1,10"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-reenvio1/d2d2a5eb3311f3a416383595f11a16e24ffe4f00287e03257257a81ad6d7c767.jpg",
+      "/workspace/monedas-billetes/originales/lote-reenvio1/61bb78a3b7d6774117da760c07c41fe59db6168dc309673c2f9c7b6e8717227e.jpg"
+    ]
+  },
+  {
+    "id": "NUM-021",
+    "tipo": "Moneda",
+    "nombre": "25 Centavos 1996 Cabildo",
+    "pais": "Argentina",
+    "continente": "América del Sur",
+    "denominacion": "25 Centavos",
+    "anio": "1996",
+    "catalogo": "KM# 110a · N# 2216 · CJ# 4.4.1 · Schön# 111a",
+    "ceca": "South African Mint (Centurion)",
+    "material": "Cuprónico (Cu 75 / Ni 25)",
+    "peso": "6,1 g (catálogo)",
+    "diametro": "24,2 mm",
+    "tirada": "95.000.000",
+    "anverso": "Cabildo de Buenos Aires; REPUBLICA ARGENTINA · EN UNION Y LIBERTAD ·; balcón de la torre con barrotes verticales; puerta de entrada con reja",
+    "reverso": "25 centavos 1996, números de fecha de trazo fino, grafila de puntos; canto estriado",
+    "estado": "XF",
+    "estado_detalle": "XF / VF+ (Cabildo, valor y fecha nítidos, grafila completa; marcas de contacto y desgaste suave de circulación; campo mate, no espejado)",
+    "rareza": "Común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,34 – 0,40",
+    "valor_internacional_clp": "337 – 397",
+    "venta_chile_clp": "1.000 – 2.500",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "Veinticinco centavos argentinos de 1996 con el Cabildo de Buenos Aires (KM# 110a, N# 2216, Schön# 111a), en cuprónico (no el bronce de aluminio KM# 110 ni el 1994 magnético de acero CJ# 4.3.4), 6,1 g y 24,2 mm, canto estriado, acuñados en la South African Mint, con tirada de unos 95.000.000. Variedad CJ# 4.4.1: campo normal (no el fondo espejado de CJ# 4.4.2), números de fecha de trazo fino —como indica Janson para ambas 4.4.x; se prefiere Janson frente a menciones de «números gruesos» en otras fichas— y puerta de entrada con reja. En el balcón de la torre se ven barrotes verticales (hay otra variedad 1996 sin barrotes; esta los tiene). El campo es mate, de circulación, no espejado, así que no se tasa como 4.4.2. Estado XF / VF+, de circulación ligera, sin errores de acuñación. En Numista el 4.4.1 cotiza VF USD 0,34 y XF 0,40; Foronum publica unos EUR 0,98 en VF. Sin ventas cerradas ni anuncios con precio legible en Chile; la estimación $1.000–2.500 es una referencia internacional ajustada a retail de una pieza común circulada.",
+    "notas": "CJ# 4.4.1 (campo normal, fecha fina, puerta con reja), con barrotes en el balcón de la torre. No es la variedad de fondo espejado ni la de balcón sin barrotes. Sin ventas cerradas verificables en Chile.",
+    "precios_por_estado": {
+      "VG": "1.000 – 1.500",
+      "F": "1.000 – 2.000",
+      "VF": "1.000 – 2.500",
+      "XF": "1.000 – 2.500",
+      "AU": "1.500 – 3.000",
+      "UNC": "2.000 – 4.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista N# 2216 (CJ# 4.4.1)",
+        "url": "https://en.numista.com/catalogue/pieces2216.html",
+        "precio_usd": "0,34 (VF) – 0,40 (XF)",
+        "precio_clp": "337 – 397",
+        "estado": "VF–XF",
+        "nota": "Valores de catálogo / usuarios Numista para la variedad normal 1996; no es una venta cerrada de este ejemplar"
+      },
+      {
+        "tipo": "Artículo de variedades",
+        "fuente": "CoNuVi (balcón con o sin barrotes, 1996)",
+        "url": "https://conuvi.net/2019/10/09/25-centavos-1996-km-110a-cj-4-4-x/",
+        "nota": "Describe las variedades de reja del balcón de la torre en 1996, además de CJ# 4.4.1 / 4.4.2"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-reenvio1/0ecb1d45718e53459619c42295483f671f796a35fb092cb709feeed7bf592550.jpg",
+      "/workspace/monedas-billetes/originales/lote-reenvio1/e6c0b4f13d28ca504e0bd35f3991bdfb261258a4ab97cc94d1df0faffead6d95.jpg"
+    ]
+  },
+  {
+    "id": "NUM-022",
+    "tipo": "Moneda",
+    "nombre": "5 Centésimos de Escudo 1969",
+    "pais": "Chile",
+    "continente": "América del Sur",
+    "denominacion": "5 Centésimos de Escudo",
+    "anio": "1969",
+    "catalogo": "KM# 190 · N# 2949",
+    "ceca": "Casa de Moneda de Santiago (So)",
+    "material": "Bronce de aluminio",
+    "peso": "4,0–4,12 g (catálogo)",
+    "diametro": "23 mm",
+    "tirada": "13.200.000",
+    "anverso": "Cóndor en vuelo a la izquierda; REPUBLICA DE CHILE",
+    "reverso": "E° 5 CENTESIMOS 1969, ramajes de trigo y marca So; grafila de segmentos; canto estriado",
+    "estado": "VF",
+    "estado_detalle": "VF (fecha, valor, So y cóndor claros, desgaste de circulación y algo de suciedad en campos; sin variedades de letra o canto propias de 1963/1965)",
+    "rareza": "Común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,58 (VF Numista)",
+    "valor_internacional_clp": "576",
+    "venta_chile_clp": "1.500 – 3.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "Cinco centésimos de escudo chilenos de 1969 (KM# 190, N# 2949) en bronce de aluminio, unos 4,0–4,12 g y 23 mm, canto estriado, acuñados en Santiago (marca So), con tirada de 13.200.000 ejemplares: pieza común. En 1969 no constan las variedades de letra o de canto que se mencionan en 1963 y 1965; sí existe prueba (proof), pero este ejemplar es de circulación. Estado VF, con leyendas y cóndor legibles, algo de suciedad y desgaste habitual, sin errores de acuñación visibles. En Numista el VF anda por USD 0,58 y en Foronum por USD 0,69. Sin ventas cerradas verificables en Chile; la estimación $1.500–3.000 se alinea con los otros centésimos de escudo de la vitrina (NUM-004 y NUM-019).",
+    "notas": "Sin variedades ni errores de acuñación visibles en las fotos. No es proof. Sin ventas cerradas verificables en Chile.",
+    "precios_por_estado": {
+      "VG": "1.000 – 2.000",
+      "F": "1.000 – 2.000",
+      "VF": "1.500 – 3.000",
+      "XF": "2.000 – 3.500",
+      "AU": "3.000 – 6.000",
+      "UNC": "3.000 – 6.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista N# 2949",
+        "url": "https://en.numista.com/catalogue/pieces2949.html",
+        "precio_usd": "0,58 (VF)",
+        "precio_clp": "576",
+        "estado": "VF",
+        "nota": "Valor de catálogo / usuarios Numista para 1969; no es una venta cerrada de este ejemplar"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Foronum",
+        "precio_usd": "0,69 (VF)",
+        "precio_clp": "685",
+        "estado": "VF",
+        "nota": "Valor de catálogo Foronum; no es una venta cerrada"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-reenvio1/e6cda34faa07958dd6ef27525108688a84929583ccb0cd322b851683884bf9a5.jpg",
+      "/workspace/monedas-billetes/originales/lote-reenvio1/c828f2d41b66aa8e0d82fc859569bea66092b90121bae36bbcc86ac0c5f77209.jpg"
+    ]
   }
 ]
