@@ -1286,5 +1286,278 @@
       "/workspace/monedas-billetes/originales/lote-reenvio1/e6cda34faa07958dd6ef27525108688a84929583ccb0cd322b851683884bf9a5.jpg",
       "/workspace/monedas-billetes/originales/lote-reenvio1/c828f2d41b66aa8e0d82fc859569bea66092b90121bae36bbcc86ac0c5f77209.jpg"
     ]
+  },
+  {
+    "id": "NUM-023",
+    "tipo": "Moneda",
+    "nombre": "100 Won 1988 (Yi Sun-sin)",
+    "pais": "Corea del Sur",
+    "continente": "Asia",
+    "denominacion": "100 Won",
+    "anio": "1988",
+    "catalogo": "KM# 35.2 · N# 1052 · Schön# 81",
+    "ceca": "KOMSCO (Daejeon)",
+    "material": "Cuprónico (75 % Cu, 25 % Ni)",
+    "peso": "5,42 g (catálogo)",
+    "diametro": "24 mm",
+    "tirada": "298.000.000",
+    "anverso": "Retrato grande del almirante Yi Sun-sin; 백 원 (cien won)",
+    "reverso": "1988 / 100 / 한국은행 (Banco de Corea); canto estriado",
+    "estado": "VF",
+    "estado_detalle": "VF (retrato y fecha claros, desgaste de circulación; manchas de verdín en el reverso, sobre todo junto a la fecha y a 한국은행)",
+    "rareza": "Muy común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,28 (VF–XF Numista)",
+    "valor_internacional_clp": "278",
+    "venta_chile_clp": "1.000 – 2.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "100 won de Corea del Sur de 1988 (KM# 35.2, N# 1052, Schön# 81), cuprónico, 5,42 g y 24 mm, canto estriado, acuñados en KOMSCO (Daejeon), con tirada de 298.000.000. Es el tipo de retrato grande del almirante Yi Sun-sin (el retrato chico es solo el 1983, KM# 35.1). Estado VF, con verdín verde en el reverso (fecha y leyenda); es pátina o corrosión ambiental, no un error de acuñación. Sin otras variedades ni errores visibles. Muy común. Sin ventas cerradas ni anuncios con precio verificable en Chile. Estimación Chile $1.000–2.000, referencia internacional ajustada a retail. En Numista el 1988 cotiza VF y XF a USD 0,28 y UNC a 1,70. Hay pedidos internacionales de circuladas en torno a USD 2,39–3,99, que no son ventas cerradas.",
+    "notas": "El verdín es ambiental, no un error de ceca. No hay duplicado de este tipo en la vitrina. Sin ventas cerradas verificables en Chile.",
+    "precios_por_estado": {
+      "VG": "1.000 – 1.500",
+      "F": "1.000 – 1.500",
+      "VF": "1.000 – 2.000",
+      "XF": "1.500 – 2.500",
+      "AU": "2.000 – 4.000",
+      "UNC": "2.000 – 4.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista N# 1052",
+        "url": "https://en.numista.com/catalogue/pieces1052.html",
+        "precio_usd": "0,28 (VF–XF)",
+        "precio_clp": "278",
+        "estado": "VF–XF",
+        "nota": "Valores de catálogo / usuarios Numista para 1988, retrato grande; no es una venta cerrada de este ejemplar"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-reenvio2/6f6117b0bb84aa1acdfd68309fd5d4902385f76aaf2d7399fa13f30bd576f8cb.jpg",
+      "/workspace/monedas-billetes/originales/lote-reenvio2/b0e7db49914a100d5093d0e6986fc92e86ac3739c28fa5024a3d4ef50840218d.jpg"
+    ]
+  },
+  {
+    "id": "NUM-024",
+    "tipo": "Moneda",
+    "nombre": "1 Peso 2017 Jacarandá",
+    "pais": "Argentina",
+    "continente": "América del Sur",
+    "denominacion": "1 Peso",
+    "anio": "2017",
+    "catalogo": "KM# 186 · N# 131212",
+    "ceca": "Casa de Moneda (Buenos Aires)",
+    "material": "Acero chapado en cobre",
+    "peso": "4,30 g (catálogo)",
+    "diametro": "20 mm",
+    "tirada": "149.387.100",
+    "anverso": "Árbol de jacarandá; REPÚBLICA ARGENTINA / JACARANDÁ",
+    "reverso": "Flor de jacarandá, 1 PESO, 2017, EN UNIÓN Y LIBERTAD; canto liso",
+    "estado": "VF",
+    "estado_detalle": "VF (diseño legible; manchas e iridiscencia del baño de cobre, verdín en JACARANDÁ, y golpe o corrosión en el canto, a la izquierda del 1 / PESO)",
+    "rareza": "Común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,46 – 0,57",
+    "valor_internacional_clp": "456 – 566",
+    "venta_chile_clp": "1.000 – 2.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "1 peso argentino de 2017 de la serie Árboles de la República, motivo jacarandá (KM# 186, N# 131212), acero chapado en cobre, 4,30 g y 20 mm, canto liso, Casa de Moneda de Buenos Aires, tirada 149.387.100, emitido el 22/12/2017 (BCRA). Pieza común de circulación, sin variedades regulares de 2017. Estado VF: el dibujo se lee, pero hay manchas, pátina iridiscente y verdín (sobre todo en JACARANDÁ), típicos del baño de cobre sobre acero, y un borde dañado a la izquierda del «1 / PESO»: se ve como golpe o corrosión localizada del canto y del baño, no como un segundo cospel. El error documentado de «doble tapa de cuño» (dos cospeles) mide unos 25 mm y pesa 8,60 g; un ejemplar UNC se vendió en subasta Río de la Plata (marzo 2026) a USD 300. Esta moneda, en la palma, es del módulo normal de 20 mm y no tiene ese grosor: el daño es posterior a la acuñación (PMD / corrosión), sin prima. Sin ventas cerradas verificables en Chile. Estimación $1.000–2.000 (en el tramo bajo por el canto y las manchas). Numista 2017: VF USD 0,46, XF 0,57, UNC 0,78.",
+    "notas": "El borde dañado, las manchas y el verdín son daño o corrosión posteriores, no el error de doble tapa de cuño. Sin ventas cerradas verificables en Chile.",
+    "precios_por_estado": {
+      "VG": "1.000 – 1.500",
+      "F": "1.000 – 1.500",
+      "VF": "1.000 – 2.000",
+      "XF": "1.500 – 2.500",
+      "AU": "2.000 – 4.000",
+      "UNC": "2.000 – 4.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista N# 131212",
+        "url": "https://en.numista.com/catalogue/pieces131212.html",
+        "precio_usd": "0,46 (VF) – 0,57 (XF)",
+        "precio_clp": "456 – 566",
+        "estado": "VF–XF",
+        "nota": "Valores de catálogo / usuarios Numista para el 2017 común; no es una venta cerrada de este ejemplar"
+      },
+      {
+        "tipo": "Venta internacional (otro ejemplar, error distinto)",
+        "fuente": "Río de la Plata Online Auction 25, lote 2257 (marzo 2026)",
+        "url": "https://www.numisbids.com/sale/10396/lot/2257",
+        "precio_usd": "300 (vendido, UNC, doble tapa de cuño 25 mm / 8,60 g)",
+        "nota": "Venta cerrada del error de dos cospeles, no de esta pieza normal de 20 mm"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-reenvio2/8db582d23f60b5201a694a31a6bf34147c89df53eb83cf5ea7639bf6f445228e.jpg",
+      "/workspace/monedas-billetes/originales/lote-reenvio2/4733a2ccc5d1055673984661c32a2051ff508b94940287c2dc5a32e37455b788.jpg"
+    ]
+  },
+  {
+    "id": "NUM-025",
+    "tipo": "Moneda",
+    "nombre": "Dime Roosevelt 1987-D",
+    "pais": "Estados Unidos",
+    "continente": "América del Norte",
+    "denominacion": "10 Cents (1 Dime)",
+    "anio": "1987",
+    "catalogo": "KM# 195a · N# 53 · PCGS# 5173",
+    "ceca": "Denver (D)",
+    "material": "Cuprónico sobre cobre (clad)",
+    "peso": "2,27 g (catálogo)",
+    "diametro": "17,9 mm",
+    "tirada": "653.203.402",
+    "anverso": "Retrato de Franklin D. Roosevelt a la izquierda; LIBERTY, IN GOD WE TRUST, 1987, ceca D sobre la fecha",
+    "reverso": "Antorcha entre rama de olivo y roble; UNITED STATES OF AMERICA, E PLURIBUS UNUM, ONE DIME; canto estriado",
+    "estado": "VF",
+    "estado_detalle": "VF / XF- (retrato, leyendas y ceca D claras; marcas de contacto de circulación; bandas de la antorcha no completas)",
+    "rareza": "Muy común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,40 – 0,41",
+    "valor_internacional_clp": "397 – 407",
+    "venta_chile_clp": "1.000 – 2.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "Dime Roosevelt de 1987 con ceca D de Denver (KM# 195a, N# 53, PCGS# 5173), cuprónico sobre cobre, 2,27 g y 17,9 mm, canto estriado, tirada 653.203.402: pieza muy común. La D sobre la fecha es clara; en las fotos no se ve un repinte de ceca (RPM-001 D/D al norte ni RPM-002 D/D rotada). Las bandas horizontales de la antorcha no están completas ni nítidas (no es Full Bands; esa prima, de haberla, importa sobre todo en UNC). Estado VF / XF-, de circulación, sin otros errores visibles. Sin ventas cerradas ni anuncios con precio verificable en Chile. Estimación $1.000–2.000. Catálogo internacional de circulada VF–XF alrededor de USD 0,40–0,41 (casi el facial de USD 0,10 más un pequeño premio de coleccionista).",
+    "notas": "Ceca D clara, sin RPM evidente ni Full Bands. Sin ventas cerradas verificables en Chile.",
+    "precios_por_estado": {
+      "VG": "1.000 – 1.500",
+      "F": "1.000 – 1.500",
+      "VF": "1.000 – 2.000",
+      "XF": "1.500 – 2.500",
+      "AU": "2.000 – 4.000",
+      "UNC": "2.000 – 4.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista N# 53",
+        "url": "https://en.numista.com/catalogue/pieces53.html",
+        "precio_usd": "unos 0,40 – 0,41 (VF–XF)",
+        "precio_clp": "397 – 407",
+        "estado": "VF–XF",
+        "nota": "Referencia de catálogo para un dime clad circulado de 1987-D; no es una venta cerrada de este ejemplar"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-reenvio2/444de2b153c6e05fc7d6e99360335c6bcb43a5a42310e099a6537ac0db3c854f.jpg",
+      "/workspace/monedas-billetes/originales/lote-reenvio2/01a90f341386907953897a6a713caf0329f7817274afed69cc23d2525a4ec8b4.jpg"
+    ]
+  },
+  {
+    "id": "NUM-026",
+    "tipo": "Moneda",
+    "nombre": "100 Won 1991 (Yi Sun-sin)",
+    "pais": "Corea del Sur",
+    "continente": "Asia",
+    "denominacion": "100 Won",
+    "anio": "1991",
+    "catalogo": "KM# 35.2 · N# 1052 · Schön# 81",
+    "ceca": "KOMSCO (Daejeon)",
+    "material": "Cuprónico (75 % Cu, 25 % Ni)",
+    "peso": "5,42 g (catálogo)",
+    "diametro": "24 mm",
+    "tirada": "400.000.000",
+    "anverso": "Retrato grande del almirante Yi Sun-sin; 백 원 (cien won)",
+    "reverso": "1991 / 100 / 한국은행 (Banco de Corea); canto estriado",
+    "estado": "VF",
+    "estado_detalle": "VF (fecha 1991 y retrato grandes legibles; pátina verde más marcada en el anverso, también algo en el reverso)",
+    "rareza": "Muy común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,25 – 0,33",
+    "valor_internacional_clp": "248 – 327",
+    "venta_chile_clp": "1.000 – 2.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "100 won de Corea del Sur de 1991 (KM# 35.2, N# 1052, Schön# 81), mismo tipo de retrato grande que NUM-023 pero de otro año, cuprónico, 5,42 g y 24 mm, KOMSCO (Daejeon), tirada 400.000.000. Estado VF. La pátina verde, más intensa en el retrato que en el 1988, es corrosión o verdín ambiental, no un error de acuñación. Sin otras variedades ni errores visibles. Muy común. Sin ventas cerradas ni anuncios con precio verificable en Chile. Estimación $1.000–2.000. Numista 1991: VF USD 0,25, XF 0,33. Hay pedidos internacionales de circuladas en torno a USD 1,20, que no son ventas cerradas.",
+    "notas": "La pátina verde es ambiental, no un error de ceca. No es duplicado de NUM-023 (100 won 1988, mismo KM, otro año). Sin ventas cerradas verificables en Chile.",
+    "precios_por_estado": {
+      "VG": "1.000 – 1.500",
+      "F": "1.000 – 1.500",
+      "VF": "1.000 – 2.000",
+      "XF": "1.500 – 2.500",
+      "AU": "2.000 – 4.000",
+      "UNC": "2.000 – 4.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista N# 1052",
+        "url": "https://en.numista.com/catalogue/pieces1052.html",
+        "precio_usd": "0,25 (VF) – 0,33 (XF)",
+        "precio_clp": "248 – 327",
+        "estado": "VF–XF",
+        "nota": "Valores de catálogo / usuarios Numista para 1991, retrato grande; no es una venta cerrada de este ejemplar"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-reenvio2/3e9e66ae777a2ad61b7ab587710d92af0a61681f13cdc3f76de7eba2c400512d.jpg",
+      "/workspace/monedas-billetes/originales/lote-reenvio2/2776da3b04516384a4a2c4e97c3dc30f592e04171e4b82f8e3d9fb39077daf72.jpg"
+    ]
+  },
+  {
+    "id": "NUM-027",
+    "tipo": "Moneda",
+    "nombre": "Nickel Jefferson 1967",
+    "pais": "Estados Unidos",
+    "continente": "América del Norte",
+    "denominacion": "5 Cents (Nickel)",
+    "anio": "1967",
+    "catalogo": "KM# A192 · N# 44 · PCGS# 4079",
+    "ceca": "Sin marca (1965–1967 no se usó; ejemplar de circulación, no SMS)",
+    "material": "Cuprónico (75 % Cu, 25 % Ni)",
+    "peso": "5,00 g (catálogo)",
+    "diametro": "21,2 mm",
+    "tirada": "107.325.800 (business strike, cifra habitual de Filadelfia)",
+    "anverso": "Thomas Jefferson a la izquierda; LIBERTY · 1967, IN GOD WE TRUST; sin marca de ceca",
+    "reverso": "Monticello; E PLURIBUS UNUM, MONTICELLO, FIVE CENTS, UNITED STATES OF AMERICA; canto liso",
+    "estado": "VF",
+    "estado_detalle": "VF / VF+ (fecha y leyendas claras, marcas de contacto; no es acabado satinado de SMS; escalones de Monticello incompletos, no Full Steps)",
+    "rareza": "Muy común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,54 – 0,65",
+    "valor_internacional_clp": "536 – 645",
+    "venta_chile_clp": "1.000 – 2.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "Nickel Jefferson de 1967 (KM# A192, N# 44, PCGS# 4079), cuprónico, 5,00 g y 21,2 mm, canto liso. Entre 1965 y 1967 las monedas de circulación no llevan marca de ceca (la marca volvió en 1968, a la derecha de Monticello). Este ejemplar tampoco la tiene, como corresponde. No es un Special Mint Set (SMS, PCGS# 4199, tirada 1.863.344): los SMS se distinguen por el acabado satinado o semiproof, no por la falta de marca, y este tiene desgaste y marcas de circulación de un business strike. La cifra habitual de acuñación de circulación es 107.325.800 (Filadelfia; Denver también acuñó sin marca ese año, así que la ceca exacta no se puede fijar). Estado VF / VF+. Los escalones de Monticello no están completos (no es Full Steps; en circulación de 1967 esa prima es casi inexistente). En LIBERTY y en la fecha no se ve un doubled die evidente (la mayoría de esos se citan en SMS). Sin ventas cerradas ni anuncios con precio verificable en Chile. Estimación $1.000–2.000. Catálogo de circulación VF unos USD 0,54 y XF 0,65. Las ventas de eBay en cientos de dólares son de MS65 o de SMS, no de esta circulada.",
+    "notas": "Business strike, no SMS. Sin marca de ceca, como todas las de 1965–1967. Sin Full Steps ni doubled die evidente. Sin ventas cerradas verificables en Chile.",
+    "precios_por_estado": {
+      "VG": "1.000 – 1.500",
+      "F": "1.000 – 1.500",
+      "VF": "1.000 – 2.000",
+      "XF": "1.500 – 2.500",
+      "AU": "2.000 – 4.000",
+      "UNC": "2.000 – 4.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista N# 44",
+        "url": "https://en.numista.com/catalogue/pieces44.html",
+        "precio_usd": "0,54 (VF) – 0,65 (XF)",
+        "precio_clp": "536 – 645",
+        "estado": "VF–XF",
+        "nota": "Referencia de catálogo para el business strike de 1967; no es una venta cerrada de este ejemplar"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "PCGS CoinFacts #4079 (regular strike)",
+        "url": "https://www.pcgs.com/coinfacts/coin/1967-5c/4079/67",
+        "nota": "Business strike de Filadelfia, 107.325.800; el SMS es otro número (PCGS# 4199)"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-reenvio2/df9e67722ecf97d59084cdd2400b45b3026eab8f297c3e65b372e8d93bcb5c71.jpg",
+      "/workspace/monedas-billetes/originales/lote-reenvio2/be1382b85a6e409b9f6120184b1a5cc4345e74d38d9ed59686b4dde1257a7c79.jpg"
+    ]
   }
 ]
