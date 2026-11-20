@@ -688,5 +688,159 @@
       "/workspace/monedas-billetes/originales/b774d9911f2b12dae2d88041e6b17ff880f58ae8b8b73098e2ecb6b7cc8263d5.jpg",
       "/workspace/monedas-billetes/originales/d7ca86f5d08bd713a05631f87f6431954e431a72fdf181cc21f100ad1578e4fb.jpg"
     ]
+  },
+  {
+    "id": "NUM-012",
+    "tipo": "Réplica / Ficha",
+    "nombre": "Kangxi Tongbao (réplica moderna)",
+    "pais": "China",
+    "continente": "Asia",
+    "denominacion": "1 Cash (imitación)",
+    "anio": "moderna",
+    "epoca": "Contemporánea (réplica)",
+    "catalogo": "Imita 康熙通寶; no es un Hartill / Numista genuino",
+    "ceca": "No identificable: falta la marca de ceca del reverso",
+    "material": "Latón",
+    "anverso": "康熙通寶 (Kangxi Tongbao), lectura arriba-abajo-derecha-izquierda; imita el 1 cash de Kangxi (1662–1722)",
+    "reverso": "Un solo carácter manchú «boo» (ᠪᠣᠣ, «tesoro») a la izquierda del orificio; el lado derecho está en blanco",
+    "estado": "Réplica moderna",
+    "estado_detalle": "Latón brillante y bastante uniforme, caracteres legibles, campos con textura granulada de fundición en arena y manchas oscuras irregulares; filos del orificio nítidos y claros",
+    "rareza": "Réplica común",
+    "origen_estimacion": "Chile / Nacional",
+    "valor_internacional_usd": "0,50 – 2,00 (réplica); si fuera auténtica, VF unos 2,00 – 5,00",
+    "valor_internacional_clp": "500 – 1.980 (réplica); si fuera auténtica, VF unos 1.980 – 4.960",
+    "venta_chile_clp": "1.000 – 2.500",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "Réplica moderna de un cash chino 康熙通寶 (Kangxi Tongbao, dinastía Qing, 1662–1722), en latón, con orificio cuadrado. Se lista como réplica, no como moneda antigua auténtica. El anverso copia correctamente los cuatro caracteres (arriba 康, abajo 熙, derecha 通, izquierda 寶). En un Kangxi genuino el reverso lleva dos inscripciones: el manchú «boo» a la izquierda y el nombre de la ceca a la derecha (por ejemplo boo-chiowan de la Casa del Ministerio de Hacienda en Pekín, Hartill 22.85, N# 31487). Esta pieza solo tiene el «boo» a la izquierda y el lado derecho está en blanco, de modo que la ceca no se puede identificar; no es el carácter chino 宁/寧 ni 宣. Otros indicios de réplica: textura granulada tipo fundición en arena en ambos lados, latón demasiado claro y uniforme para una pieza de más de 300 años, y filo del orificio muy vivo. Llegó en el mismo lote que dos fichas modernas de recuerdo (NUM-013 y NUM-014). No es un error de acuñación: es una imitación incompleta. Si fuera auténtica, un 1 cash común de Kangxi en VF cotiza en Numista unos USD 2,00–2,30 y en CoinQuest unos USD 5 en promedio (hasta USD 15 bien conservada); un anuncio internacional llegó a pedir USD 25. Esta no se tasa como auténtica.",
+    "notas": "Juicio: réplica / recuerdo moderno, no un Kangxi genuino. Sin ventas cerradas verificables en Chile de esta imitación concreta. Precio de venta como réplica, estimado a partir de anuncios chilenos de monedas chinas de amuleto o Feng Shui (no ventas cerradas): trío a $1.000 en Espacios de Ensueños; monedas amuleto 3 medianas o 5 chicas por $1.000 en Importadora Halcón. Una pieza suelta identificada se estima un poco por encima del valor unitario de esos lotes.",
+    "referencias": [
+      {
+        "tipo": "Anuncio Chile",
+        "fuente": "Espacios de Ensueños",
+        "url": "https://espaciosdeensuenostienda.cl/products/monedas-chinas-trio",
+        "precio_clp": "1.000 (trío)",
+        "nota": "Anuncio de monedas chinas souvenir / Feng Shui, trío a $1.000 CLP; no es una venta cerrada verificable ni este ejemplar"
+      },
+      {
+        "tipo": "Anuncio Chile",
+        "fuente": "Importadora Halcón",
+        "url": "https://importadorahalcon.cl/product/monedas-chinas-amuleto",
+        "precio_clp": "1.000 (3 medianas o 5 chicas)",
+        "nota": "Monedas chinas amuleto; precio de tienda, no venta cerrada de esta pieza"
+      },
+      {
+        "tipo": "Catálogo internacional (solo si fuera auténtica)",
+        "fuente": "Numista N# 31487 (Boo-chiowan)",
+        "url": "https://en.numista.com/31487",
+        "precio_clp": "1.980 – 2.280",
+        "estado": "VF",
+        "nota": "USD 2,00–2,30 para un Kangxi genuino de ceca boo-chiowan; no aplica a esta réplica"
+      },
+      {
+        "tipo": "Guía internacional (solo si fuera auténtica)",
+        "fuente": "CoinQuest",
+        "url": "https://coinquest.com/cgi-bin/cq/coins.pl?coin=21455",
+        "precio_clp": "990 – 14.890",
+        "nota": "Catálogo aproximado para genuina: worn USD 1, promedio USD 5, bien conservada USD 15; réplicas modernas casi sin valor de colección"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-chinas/0b97da73f0f54d2ad3f39f51071016764ac515dfc77abe3a33089f7e4572aa66.jpg",
+      "/workspace/monedas-billetes/originales/lote-chinas/c4811455fb4a7d3ff2f35e3564412346828d6bbfc4f34bfc13c0e8b4495ec913.jpg"
+    ]
+  },
+  {
+    "id": "NUM-013",
+    "tipo": "Réplica / Ficha",
+    "nombre": "Ficha zodiacal 馬年 / Year of the Horse (recuerdo)",
+    "pais": "China",
+    "continente": "Asia",
+    "denominacion": "Ficha de recuerdo (sin valor facial)",
+    "anio": "moderna",
+    "epoca": "Contemporánea (ficha de recuerdo)",
+    "catalogo": "Ficha / souvenir; no es moneda de curso legal",
+    "ceca": "No indicada (solo se fotografió una cara)",
+    "material": "Metal blanco (aluminio o aleación ligera)",
+    "anverso": "Caballo al trote, cartela 午馬 (Wu Ma, rama terrestre del Caballo) y la leyenda inglesa «horse» incusa",
+    "reverso": "No fotografiado",
+    "estado": "Ficha usada",
+    "estado_detalle": "Metal blanco con suciedad en los huecos, manchas de oxidación y señales de uso; solo se fotografió una cara",
+    "rareza": "Ficha de recuerdo común",
+    "origen_estimacion": "Chile / Nacional",
+    "valor_internacional_usd": "0,50 – 2,00",
+    "valor_internacional_clp": "500 – 1.980",
+    "venta_chile_clp": "1.000 – 2.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "Ficha moderna de recuerdo del horóscopo chino, Año del Caballo (午馬), en metal blanco, con la palabra inglesa «horse» bajo la figura. No es moneda de curso legal ni una emisión conmemorativa oficial: forma parte de los sets zodiacales que se venden a turistas y en tiendas de souvenir. Solo se fotografió una cara, así que no se puede describir el reverso. No se observan errores de acuñación en la cara visible; las manchas son de suciedad u oxidación, no de ceca. Se lista como ficha de recuerdo.",
+    "notas": "Sin ventas cerradas verificables en Chile de esta ficha exacta. Estimación local a partir de un anuncio chileno de «Monedas de la Suerte Horóscopo Chino - Búfalo» a $2.000 CLP (Insumos Acupuntura, acero, 39 mm, agotado) y de souvenirs internacionales, que suelen venderse en sets a pocos dólares.",
+    "referencias": [
+      {
+        "tipo": "Anuncio Chile",
+        "fuente": "Insumos Acupuntura",
+        "url": "https://www.insumosacupuntura.cl/products/monedas-de-la-suerte-horoscopo-chino",
+        "precio_clp": "2.000",
+        "nota": "Moneda de la suerte del horóscopo chino (Búfalo), $2.000 CLP, agotada; comparable de souvenir zodiacal, no esta ficha del Caballo ni una venta cerrada"
+      },
+      {
+        "tipo": "Anuncio internacional",
+        "fuente": "Amazon (sets souvenir Año del Caballo)",
+        "url": "https://www.amazon.com/Chinese-Zodiac-Blessing-Souvenir-Protective/dp/B0FXLTJY5C",
+        "precio_clp": "2.450 aprox. (set de 5)",
+        "nota": "Set de 5 fichas souvenir a USD 12,34; precio pedido, no venta cerrada de esta pieza"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-chinas/672e4cf450f87d39c397bf127dd03c3936810c172c26ad6a19c3a75638cbb364.jpg"
+    ]
+  },
+  {
+    "id": "NUM-014",
+    "tipo": "Réplica / Ficha",
+    "nombre": "Amuleto Bagua / yin-yang (réplica de 花錢)",
+    "pais": "China",
+    "continente": "Asia",
+    "denominacion": "Amuleto / ficha de recuerdo (sin valor facial)",
+    "anio": "moderna",
+    "epoca": "Contemporánea (réplica)",
+    "catalogo": "Réplica moderna de 花錢 (charm coin); no es moneda de curso legal",
+    "ceca": "No indicada (solo se fotografió una cara)",
+    "material": "Metal blanco (aluminio o aleación ligera)",
+    "anverso": "Taijitu (yin-yang) en el centro, los 12 ramos terrestres (子丑寅卯辰巳午未申酉戌亥) alrededor y los ocho trigramas (Bagua) en el borde",
+    "reverso": "No fotografiado",
+    "estado": "Réplica usada",
+    "estado_detalle": "Metal blanco con suciedad en los relieves y señales de uso; solo se fotografió una cara",
+    "rareza": "Réplica / amuleto común",
+    "origen_estimacion": "Chile / Nacional",
+    "valor_internacional_usd": "0,50 – 3,00",
+    "valor_internacional_clp": "500 – 2.980",
+    "venta_chile_clp": "1.000 – 2.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "Amuleto o ficha moderna de metal blanco con el taijitu (yin-yang), los ocho trigramas del Bagua y los doce ramos terrestres. Imita los antiguos 花錢 (monedas-amuleto o charm coins) chinos, pero es una réplica o recuerdo contemporáneo, no una pieza antigua ni moneda de curso legal. Solo se fotografió una cara. En la cara visible no hay errores de ceca: la suciedad está en los huecos del relieve. Se lista como réplica / ficha de recuerdo. El metal y el desgaste son del mismo tipo que la ficha zodiacal NUM-013, con la que llegó en el mismo lote.",
+    "notas": "Sin ventas cerradas verificables en Chile de este amuleto exacto. Estimación local a partir de monedas chinas de amuleto a $1.000 el lote (Importadora Halcón) y de un Bagua Yin Yan de Feng Shui a $1.850 CLP (India en Chile; es un adorno afín, no necesariamente esta ficha). En el mercado internacional este tipo de charm souvenir se vende a pocos dólares.",
+    "referencias": [
+      {
+        "tipo": "Anuncio Chile",
+        "fuente": "Importadora Halcón",
+        "url": "https://importadorahalcon.cl/product/monedas-chinas-amuleto",
+        "precio_clp": "1.000 (3 medianas o 5 chicas)",
+        "nota": "Monedas chinas amuleto; precio de tienda, no venta cerrada de esta pieza"
+      },
+      {
+        "tipo": "Anuncio Chile",
+        "fuente": "India en Chile",
+        "url": "https://indiaenchile.cl/producto/feng-shui-bagua-yin-yan-859-1000x-mayor",
+        "precio_clp": "1.850",
+        "nota": "Feng Shui Bagua Yin Yan a $1.850 CLP (mayorista $1.000); adorno comparable, no esta ficha ni una venta cerrada"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-chinas/9da7dd9877000f85ea385b2020811612cb3ee0912965cd7f0368994610bde2b6.jpg"
+    ]
   }
 ]
