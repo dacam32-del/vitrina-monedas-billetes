@@ -14,7 +14,7 @@ Cada ficha incluye tipo, país/territorio, continente, denominación, año, épo
 - Música de fondo: "Prelude in C - BWV 846" (J. S. Bach) interpretada por Kevin MacLeod (incompetech.com), licencia CC BY 4.0.
 - Las fotos se publican tal como se suben, sin recortes ni recompresión.
 
-**Totales:** 14 fichas · 14 piezas · 5 países · $20.000 – $41.000 (CLP, venta Chile)
+**Totales:** 18 fichas · 18 piezas · 6 países · $27.000 – $56.500 (CLP, venta Chile)
 
 ## 🏛️ Vitrina web
 **[https://dacam32-del.github.io/vitrina-monedas-billetes/](https://dacam32-del.github.io/vitrina-monedas-billetes/)**

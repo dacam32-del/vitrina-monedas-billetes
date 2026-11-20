@@ -842,5 +842,211 @@
     "fotos": [
       "/workspace/monedas-billetes/originales/lote-chinas/9da7dd9877000f85ea385b2020811612cb3ee0912965cd7f0368994610bde2b6.jpg"
     ]
+  },
+  {
+    "id": "NUM-015",
+    "tipo": "Moneda",
+    "nombre": "1 Sol de Oro 1962",
+    "pais": "Perú",
+    "continente": "América del Sur",
+    "denominacion": "1 Sol de Oro",
+    "anio": "1962",
+    "catalogo": "KM# 222 · N# 4640 · Schön# 24",
+    "ceca": "Philadelphia (Casa de Moneda de Filadelfia)",
+    "material": "Latón (70 % Cu, 30 % Zn)",
+    "peso": "13,80 g (catálogo)",
+    "diametro": "33 mm",
+    "tirada": "5.102.000",
+    "anverso": "Escudo nacional del Perú (vicuña, quina y cornucopia) sin leyenda, con corona cívica, laurel y palma",
+    "reverso": "EL BANCO CENTRAL DE RESERVA DEL PERU / PAGARA AL PORTADOR / UN SOL DE ORO / 1962",
+    "estado": "VF",
+    "estado_detalle": "VF / VF+ (escudo y leyendas claros; mella o golpe en el canto, abajo a la izquierda del anverso; pequeño punto de verdín cerca de «EL BANCO» en el reverso)",
+    "rareza": "Común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,55 – 1,00",
+    "valor_internacional_clp": "546 – 992",
+    "venta_chile_clp": "2.500 – 5.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "Un sol de oro peruano de 1962 (KM# 222, N# 4640, Schön# 24), en latón (70 % cobre y 30 % zinc; pese al nombre, no es oro), de 13,80 g y 33 mm, canto estriado y alineación moneda. Acuñado en la Casa de Moneda de Filadelfia para el Perú, con tirada de 5.102.000 ejemplares: pieza muy común. En 1962 no hay variedades de fecha ancha o estrecha (esas están documentadas solo en 1958 y 1964). Estado VF / VF+, con escudo legible (vicuña, quina y cornucopia) y leyendas claras. Tiene una mella o golpe en el canto, abajo a la izquierda del anverso (lado del escudo): es daño posterior a la acuñación, no un error de ceca, y no lleva prima. En el reverso hay un pequeño punto de verdín cerca de «EL BANCO». No se encontraron ventas cerradas verificables en Chile; Mercado Libre Chile tiene al menos un anuncio titulado «Moneda Perú Un Sol De Oro 1962», pero no se pudo leer el precio. La estimación local se alinea con la ficha hermana NUM-003 (1/2 sol 1960, $2.000–4.000) y se ajusta un poco al alza por ser el sol completo, con un recorte menor por la mella. En Numista el 1962 cotiza F USD 0,19, VF 0,55, XF 1,00 y AU 1,10. Foronum publica USD 8,07–13,55, pero es un algoritmo con valores declarados por coleccionistas (uno llegó a poner VF a USD 1,12, más cercano a Numista) y además atribuye por error la ceca a Lima y la llama «muy escasa»; se prefiere Numista.",
+    "notas": "Sin errores de acuñación visibles. La mella del canto es daño de circulación o de golpe (PMD), no una variedad. No es duplicado de NUM-003 (1/2 sol 1960) ni de NUM-008 (quarter Washington 1982-D). Sin ventas cerradas verificables en Chile.",
+    "precios_por_estado": {
+      "VG": "1.500 – 3.000",
+      "F": "1.500 – 3.000",
+      "VF": "2.500 – 5.000",
+      "XF": "4.000 – 7.000",
+      "AU": "6.000 – 12.000",
+      "UNC": "6.000 – 12.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista N# 4640",
+        "url": "https://en.numista.com/catalogue/pieces4640.html",
+        "precio_usd": "0,55 (VF) – 1,00 (XF)",
+        "precio_clp": "546 – 992",
+        "estado": "VF–XF",
+        "nota": "Valores de catálogo / usuarios Numista para 1962; no es una venta cerrada de este ejemplar"
+      },
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Foronum FO# 4543",
+        "url": "https://en.foronum.com/coins-catalog/peru/n-4543-1-sol/1962",
+        "precio_usd": "8,07 (VF) – 13,55 (UNC)",
+        "nota": "Algoritmo de Foronum (valores declarados por coleccionistas, no ventas cerradas). Ceca y rareza de esa ficha no coinciden con Numista; se cita solo como referencia secundaria."
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-t211/8deb87701132e2ca2c9e9a0b6f226d9a0a12c83927dfa867cdc8f52f4c2f748e.jpg",
+      "/workspace/monedas-billetes/originales/lote-t211/e7614cec4ecd74d1a99c4387df78040d85bf70e45c41fa390f0e2cd28a334fe8.jpg"
+    ]
+  },
+  {
+    "id": "NUM-016",
+    "tipo": "Réplica / Ficha",
+    "nombre": "Ficha Sunoco Presidential Coin Series 2000 #1 William J. Clinton",
+    "pais": "Estados Unidos",
+    "continente": "América del Norte",
+    "denominacion": "Ficha publicitaria (sin valor facial)",
+    "anio": "2000",
+    "catalogo": "N# 80675",
+    "ceca": "Sin ceca (ficha publicitaria Sunoco)",
+    "material": "Latón",
+    "peso": "10,8 g (catálogo)",
+    "diametro": "31 mm",
+    "anverso": "Retrato de William J. Clinton; leyenda del presidente de EE. UU. (1993–2001)",
+    "reverso": "Logotipo SUNOCO, número 1, leyenda THE SUNOCO PRESIDENTIAL COIN SERIES / 2000",
+    "estado": "XF",
+    "estado_detalle": "XF / VF+ (detalle del retrato y del reverso claros, tono de circulación en el latón y restos de lustre; desgaste suave en puntos altos)",
+    "rareza": "Ficha publicitaria común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "2,00 – 5,00 (precio pedido, no venta cerrada)",
+    "valor_internacional_clp": "1.985 – 4.962 (precio pedido, no venta cerrada)",
+    "venta_chile_clp": "1.500 – 3.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "Ficha de latón de la serie publicitaria The Sunoco Presidential Coin Series, año 2000, número 1, con el retrato de William J. Clinton, presidente de los Estados Unidos entre 1993 y 2001. No es moneda de curso legal ni un dólar conmemorativo: fue un recuerdo o promoción de estaciones de servicio Sunoco. Catálogo Numista N# 80675 (unos 10,8 g, 31 mm, canto estriado, alineación medalla). El número 1 se confirma bajo el logotipo SUNOCO en el reverso, junto a la leyenda de la serie y la fecha 2000. Estado aproximado XF / VF+, con desgaste de circulación, tono y algo de lustre. Sin errores visibles. No se encontraron ventas ni anuncios en Chile. En el mercado internacional hay precios pedidos (no ventas cerradas verificadas aquí) en torno a USD 2 (Mercari, usado), USD 3,99 (icollecteverything) y USD 5 OBO en eBay; otras fichas de la misma serie suelen pedirse entre USD 2,50 y 6,99. La estimación en Chile se presenta como referencia internacional ajustada a una ficha suelta de recuerdo.",
+    "notas": "Ficha / token, no curso legal. Sin ventas cerradas verificables en Chile ni errores de acuñación visibles. Los USD 2–5 citados son precios de anuncio, no remates comprobados de este ejemplar.",
+    "precios_por_estado": {},
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista N# 80675",
+        "url": "https://en.numista.com/catalogue/pieces80675.html",
+        "nota": "Ficha Sunoco Presidential Coin Series; no publica una tabla de precios de venta cerrada para este número"
+      },
+      {
+        "tipo": "Anuncio internacional",
+        "fuente": "Mercari / eBay / icollecteverything (pedidos, no ventas cerradas verificadas)",
+        "precio_usd": "2,00 – 5,00",
+        "precio_clp": "1.985 – 4.962",
+        "nota": "Precios pedidos de fichas de la serie o de este número; no son ventas cerradas de esta pieza"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-t211/6e28d23b4d243e3ce083bb31194fd8fe3703629e04e45227ba6595dff8a552fa.jpg",
+      "/workspace/monedas-billetes/originales/lote-t211/59bad2dc450cd158e30883a507a5d7da18617152b79110877da5f83749805253.jpg"
+    ]
+  },
+  {
+    "id": "NUM-017",
+    "tipo": "Moneda",
+    "nombre": "10 Pesos bimetálica (Piedra del Sol), año ilegible",
+    "pais": "México",
+    "continente": "América del Norte",
+    "denominacion": "10 Pesos",
+    "anio": "ilegible",
+    "epoca": "Contemporánea (serie C, 1997 en adelante)",
+    "catalogo": "KM# 616 · N# 591 · Schön# 180a",
+    "ceca": "Mo (Ciudad de México); la marca está muy desgastada en las fotos",
+    "material": "Bimetálica: núcleo de alpaca (Cu-Ni-Zn) y anillo de bronce de aluminio",
+    "peso": "10,33 g (catálogo)",
+    "diametro": "28 mm",
+    "anverso": "ESTADOS UNIDOS MEXICANOS; águila sobre nopal con serpiente",
+    "reverso": "Máscara de fuego de Tonatiuh (círculo central de la Piedra del Sol azteca); $10, Mo y DIEZ PESOS en el anillo; el año, a la izquierda de $10, no se lee con seguridad en las fotos",
+    "estado": "VF",
+    "estado_detalle": "VF / VF+ (Piedra del Sol y águila reconocibles, anillo y grafila desgastados; año ilegible en las fotos)",
+    "rareza": "Muy común",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "0,52 – 0,90",
+    "valor_internacional_clp": "516 – 893",
+    "venta_chile_clp": "1.000 – 2.500",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "10 pesos mexicanos bimetálicos de la serie C (KM# 616, N# 591, Schön# 180a), con el círculo central de la Piedra del Sol (máscara de fuego de Tonatiuh) y el águila de ESTADOS UNIDOS MEXICANOS. Núcleo de alpaca y anillo de bronce de aluminio, 10,33 g y 28 mm, canto estriado, ceca Mo. No es la serie anterior de «nuevos pesos» con centro de plata KM# 553 (1992–1995, leyenda N$ / NUEVOS PESOS): esta pieza dice DIEZ PESOS y $10, sin la N$, y el centro es de color níquel, no plata de ley. El año va en el anillo, a la izquierda de $10, y la marca Mo a la derecha; en estas fotos el anillo está desgastado y el año no se puede leer con seguridad (la serie corre de 1997 en adelante, con emisiones casi todos los años). Estado VF / VF+, de circulación. Variedades conocidas del tipo (no atribuibles aquí por falta de fecha nítida): en 1998, fecha cerca o lejos de la grafila; en 2007, grafila invertida, que en Numista llega a cotizar unos USD 8,10 en VF frente a USD 0,72 del 2007 normal. En este ejemplar los dentículos se ven de trazo habitual, no como grafila invertida evidente, y no se aprecian errores de planchet (ni el 2019 sobre plata ni el 2021 sobre cospel de 5 pesos). Pieza muy común: el valor facial ronda USD 0,53 y en Numista el VF típico está entre unos USD 0,52 y 0,90 según el año. En Mercado Libre Chile hay anuncios del tipo (por ejemplo «Moneda México 10 Pesos 1998 Bimetálica») cuyo precio no se pudo leer. Sin ventas cerradas verificables en Chile; la estimación local es una referencia internacional ajustada a retail de una pieza circulada común.",
+    "notas": "Año no legible en las fotos. No se observan errores de acuñación ni grafila invertida evidente. No confundir con KM# 553 (centro de plata, N$10). Sin ventas cerradas verificables en Chile.",
+    "precios_por_estado": {
+      "VG": "1.000 – 1.500",
+      "F": "1.000 – 2.000",
+      "VF": "1.000 – 2.500",
+      "XF": "1.500 – 3.000",
+      "AU": "2.000 – 4.000",
+      "UNC": "2.500 – 5.000"
+    },
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista N# 591",
+        "url": "https://en.numista.com/catalogue/pieces591.html",
+        "precio_usd": "0,52 – 0,90 (VF típico, según año)",
+        "precio_clp": "516 – 893",
+        "estado": "VF",
+        "nota": "Valores de catálogo / usuarios Numista de la serie KM# 616; el año de esta pieza no se leyó"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-t211/b093a350f84493bbe1577c9a8b2659db04bdaec2d32f59157a0816bd391b4ddc.jpg",
+      "/workspace/monedas-billetes/originales/lote-t211/c1f9497d7a5a3fec28dce53f9ef86e2463a4868168474745e743981f732f2f37.jpg"
+    ]
+  },
+  {
+    "id": "NUM-018",
+    "tipo": "Réplica / Ficha",
+    "nombre": "Guangxu Yuanbao Zhejiang 10 cash (probable réplica)",
+    "pais": "China",
+    "continente": "Asia",
+    "denominacion": "10 cash / 當十 (imitación)",
+    "anio": "moderna",
+    "epoca": "Contemporánea (réplica)",
+    "catalogo": "Imita Y# 49 (bola en el centro) / N# 22386; no se autentica como ejemplar oficial",
+    "ceca": "Imita la emisión de Zhejiang (Chekiang), c. 1903–1906",
+    "material": "Cobre",
+    "peso": "unos 7 g y 28 mm en el tipo oficial (no medido aquí)",
+    "anverso": "浙江省造 / 光緒元寶 / 當十, con bola o cuenta dentro de un círculo en el centro (tipo Y# 49, no la roseta de Y# 49.1); flores o estrellas laterales y círculo de perlas",
+    "reverso": "Dragón en torno a una perla central; la leyenda inglesa CHEH-KIANG / TEN CASH del tipo oficial no se distingue en el canto",
+    "estado": "Réplica / dudosamente auténtica",
+    "estado_detalle": "Cobre con pátina parda y algo de verdín; caracteres del anverso bastante formados, pero el dragón del reverso está pastoso y la leyenda inglesa del borde no se lee",
+    "rareza": "Réplica o recast frecuente; el tipo oficial Y# 49 es más bien escaso en grados altos",
+    "origen_estimacion": "Internacional (solo referencia)",
+    "valor_internacional_usd": "1,00 – 5,00 (réplica); si fuera auténtica, VF unos 4,70 – 8,00 y XF vendido unos 8 – 11",
+    "valor_internacional_clp": "992 – 4.962 (réplica); si fuera auténtica, VF unos 4.665 – 7.940 y XF vendido unos 7.940 – 10.917",
+    "venta_chile_clp": "2.000 – 5.000",
+    "stock": 1,
+    "dolar": "992,48 CLP (20-11-2026)",
+    "fecha": "2026-11-20",
+    "descripcion": "Pieza de cobre que imita el 10 cash de Zhejiang (Chekiang) 光緒元寶, 浙江省造, 當十, con dragón en el reverso, del tipo Y# 49 / N# 22386 (c. 1903–1906). El anverso tiene en el centro una bola o cuenta dentro de un círculo, coherente con Y# 49 (ball at center) y no con la roseta de Y# 49.1 ni con el subtipo de centro con manchú 宝浙. Los caracteres 光、緒、元、寶 y 浙江省造 / 當十 se leen, hay círculo de perlas y restos de flores o estrellas laterales, y la pátina parda con verdín podría pasar por una moneda antigua circulada. El reverso, en cambio, muestra un dragón muy débil y pastoso, sin escamas nítidas, y en los cuatro cuadrantes del borde no se distingue la leyenda inglesa CHEH-KIANG / TEN CASH que llevan las emisiones oficiales. Eso, junto con la blandura del dragón, apunta a una fundición posterior o réplica (en este tipo abundan las copias), aunque el anverso está mejor logrado que en muchas imitaciones baratas. Se lista como probable réplica, no como moneda oficial auténtica. Si fuera genuina y solo estuviera muy gastada, un VF de catálogo anda por unos USD 4,70–8 (Numista) y hay ventas de subasta Katz de ejemplares XF a EUR 7 y EUR 10 más prima; hay pedidos mucho más altos (unos £33 o USD 45–49) que no se toman como valor de mercado. Como réplica se estima $2.000–5.000 CLP, un poco por encima de las fichas chinas de recuerdo NUM-012 a NUM-014 por el mayor interés del tipo dragón, con la reserva explícita de autenticidad.",
+    "notas": "Juicio: probable réplica o recast, no autenticada como Y# 49 oficial. El anverso es aceptable, pero el dragón débil y la ausencia visible de CHEH-KIANG / TEN CASH impiden tratarla como auténtica. Sin ventas cerradas verificables en Chile de este tipo. No se midió peso ni diámetro. Si un examen (peso, canto y leyenda inglesa) confirmara que es genuina, el valor de referencia internacional sería más alto y habría que relistar la ficha.",
+    "precios_por_estado": {},
+    "referencias": [
+      {
+        "tipo": "Catálogo internacional",
+        "fuente": "Numista N# 22386 (tipo Y# 49 / Zhejiang 10 cash)",
+        "url": "https://en.numista.com/catalogue/pieces22386.html",
+        "nota": "Tipo oficial que esta pieza imita; no se aplica el precio de un auténtico a esta ficha"
+      },
+      {
+        "tipo": "Venta internacional (si fuera auténtica, no de esta pieza)",
+        "fuente": "Katz (subastas de ejemplares XF del tipo)",
+        "precio_usd": "unos 8 – 11 (EUR 7 y 10 + prima, XF)",
+        "nota": "Ventas de piezas presentadas como auténticas en XF; no corresponden a esta y no se usan para tasar la réplica"
+      }
+    ],
+    "fotos": [
+      "/workspace/monedas-billetes/originales/lote-t211/fb2b223493136649407ff74ee13582242f2dda71d6386a90bf1500fa010cbf21.jpg",
+      "/workspace/monedas-billetes/originales/lote-t211/dce3fd661d580da96c99eb34354bed09849b72f89269c6820b6b85db9ac2c0e9.jpg"
+    ]
   }
 ]
